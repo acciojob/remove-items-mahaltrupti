@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+<style>
+  body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  select, input {
+    font-size: 16px;
+    padding: 8px;
+    margin-top: 10px;
+  }
+</style>
